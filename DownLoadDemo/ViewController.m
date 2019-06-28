@@ -116,6 +116,7 @@
     }else {
         NSLog(@"失败");
         NSLog(@"master");
+        NSLog(@"branch");
     }
 
 }
