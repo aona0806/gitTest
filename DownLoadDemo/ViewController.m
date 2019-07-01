@@ -115,7 +115,7 @@
         [[UIApplication sharedApplication] openURL:url];
     }else {
         NSLog(@"失败");
-        NSLog(@"branch");
+        NSLog(@"master");
     }
 
 }
