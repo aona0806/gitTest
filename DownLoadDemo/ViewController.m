@@ -115,6 +115,7 @@
         [[UIApplication sharedApplication] openURL:url];
     }else {
         NSLog(@"失败");
+        NSLog(@"啦啦啦啦啦");
     }
 
 }
