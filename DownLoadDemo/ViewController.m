@@ -115,8 +115,6 @@
         [[UIApplication sharedApplication] openURL:url];
     }else {
         NSLog(@"失败");
-        NSLog(@"dev");
-        NSLog(@"为啥啊，怎么会这样是");
     }
 
 }
